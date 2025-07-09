@@ -1,6 +1,6 @@
 <?php
 
-namespace RachidLaasri\LaravelInstaller\Helpers;
+namespace Kanhaiyanigam05\LaravelInstaller\Helpers;
 
 use Exception;
 use Illuminate\Support\Facades\Artisan;

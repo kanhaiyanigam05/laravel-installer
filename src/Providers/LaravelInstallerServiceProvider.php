@@ -3,8 +3,8 @@ namespace Kanhaiyanigam05\LaravelInstaller\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
-use RachidLaasri\LaravelInstaller\Middleware\canInstall;
-use RachidLaasri\LaravelInstaller\Middleware\canUpdate;
+use Kanhaiyanigam05\LaravelInstaller\Middleware\canInstall;
+use Kanhaiyanigam05\LaravelInstaller\Middleware\canUpdate;
 
 class LaravelInstallerServiceProvider extends ServiceProvider
 {
