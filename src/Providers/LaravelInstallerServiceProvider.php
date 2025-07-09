@@ -1,6 +1,5 @@
 <?php
-
-namespace RachidLaasri\LaravelInstaller\Providers;
+namespace Kanhaiyanigam05\LaravelInstaller\Providers;
 
 use Illuminate\Routing\Router;
 use Illuminate\Support\ServiceProvider;
